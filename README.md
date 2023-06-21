@@ -24,6 +24,7 @@ This is a simple calendar application built using PyQt5 framework in Python. It 
 # Installation
 1.	Clone the repository or download the source code files.
 2.	Install the required dependencies using the following command:
+
 Copy code
 
 pip install pyqt5 
