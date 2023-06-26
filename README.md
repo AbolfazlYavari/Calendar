@@ -21,26 +21,6 @@ This is a simple calendar application built using PyQt5 framework in Python. It 
 
 •	PyQt5 library
 
-# Installation
-1.	Clone the repository or download the source code files.
-2.	Install the required dependencies using the following command:
-
-Copy code
-
-pip install pyqt5 
-
-# Usage
-1.	Run the application by executing the following command:
-Copy code
-
-python calendar.py 
-
-2.	The application window will appear, displaying a calendar widget.
-3.	Click on a date in the calendar to see the selected date displayed in the label.
-4.	To select a date range, hold down the Shift key and click on the start date and end date.
-5.	The selected date range will be highlighted in the calendar.
-6.	Click the "Select" button to retrieve the selected date range and display it in the result label.
-7.	Click the "Clear" button to clear the selected date range and reset the calendar.
 
 # Contribute
 
